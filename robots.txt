@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (replace with your exact GitHub Pages or Netlify URL)
+Sitemap: https://username.github.io/gtu-physics-lab-gujarati/sitemap.xml
